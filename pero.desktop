@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=pero
+GenericName=Веб-браузер
+Comment=Лёгкий браузер для школы
+Exec=pero %u
+Icon=pero
+Terminal=false
+Type=Application
+Categories=Network;WebBrowser;
+MimeType=text/html;text/xml;application/xhtml+xml;x-scheme-handler/http;x-scheme-handler/https;
+StartupNotify=true
+Keywords=Интернет;Браузер;Сеть;Web;WWW;
